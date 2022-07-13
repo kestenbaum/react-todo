@@ -1,0 +1,11 @@
+.inp{
+    display: flex;
+    height: 30px;
+    align-items: center;
+    width: 100%;
+    border: 2px solid black;
+    padding: 5px 15px;
+}
+.inp:focus::placeholder{
+    color: transparent;
+}

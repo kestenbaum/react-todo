@@ -1,0 +1,6 @@
+.select{
+    display: flex;
+    align-items: center;
+    height: 30px;
+    width: 80%;
+}
